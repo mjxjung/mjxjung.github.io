@@ -1,5 +1,5 @@
 .DS_Store
 
-minji_*.jpg
 *.HEIC
 minji*.jpg
+!minji_final.jpg
